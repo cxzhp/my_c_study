@@ -2,7 +2,12 @@
 
 int main()
 {
-        printf("EOF:%d",EOF);
+        printf("y:%d\n",'y');
+        printf("e:%d\n",'e');
+        printf("s:%d\n",'s');
+        printf("yes:%d\n",'yes');
+        //printf("yes:%s",'yes');
+        printf("EOF:%d\n",EOF);
         //printf("EOF_char:%s",EOF);
         //printf("char=%d\n", sizeof(char));
         //printf("short=%d\n", sizeof(short int));
